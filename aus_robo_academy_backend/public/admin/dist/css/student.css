@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
+
+*{
+  font-family: "Madimi One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  background-image: linear-gradient(#F8E177, #54B593);
+  height: 100vh;
+}
+
+canvas {
+  width: 100% !important;
+  height: 55vh !important;
+  background: #fff !important;
+}
